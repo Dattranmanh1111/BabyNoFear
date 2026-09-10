@@ -1,4 +1,4 @@
-<img width="1050" height="1077" alt="image" src="https://github.com/user-attachments/assets/b17e1433-780b-4a53-bbf5-feab584583f3" /># Tên Dự Án
+# Tên Dự Án
 Tên dự án: "Game 2D pixel BabyNoFear"
 Thể loại: RPG Puzzle
 
