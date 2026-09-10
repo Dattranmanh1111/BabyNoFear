@@ -51,4 +51,5 @@ Thể loại: RPG Puzzle
 
 
 ## Tác Giả
-Tuấn Heiji
+Trần Mạnh Đạt
+
