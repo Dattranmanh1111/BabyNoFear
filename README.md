@@ -1,4 +1,4 @@
-# Tên Dự Án
+<img width="1050" height="1077" alt="image" src="https://github.com/user-attachments/assets/b17e1433-780b-4a53-bbf5-feab584583f3" /># Tên Dự Án
 Tên dự án: "Game 2D pixel BabyNoFear"
 Thể loại: RPG Puzzle
 
@@ -43,7 +43,7 @@ Thể loại: RPG Puzzle
 ## Cách Chạy Dự Án
 
 1. Clone project frontend:
-- git clone https://github.com/TuanHeiji/BabyNoFear.git
+- git clone https://github.com/Dattranmanh1111/BabyNoFear.git
 
 2. Cài Unity hub và chọn editor version: 6000.0.55f1
 
